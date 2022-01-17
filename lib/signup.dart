@@ -275,7 +275,7 @@ class _SignUpPageState extends State<SignUpPage> {
     return RichText(
       textAlign: TextAlign.center,
       text: TextSpan(
-          text: 'kh',
+          text: 'ka',
           style: TextStyle(
               fontSize: 30,
               fontWeight: FontWeight.w700,
@@ -283,11 +283,11 @@ class _SignUpPageState extends State<SignUpPage> {
           ),
           children: [
             TextSpan(
-              text: 'al',
+              text: 'r',
               style: TextStyle(color: Colors.black, fontSize: 30),
             ),
             TextSpan(
-              text: 'il',
+              text: 'im',
               style: TextStyle(color: Colors.blue, fontSize: 30),
             ),
           ]),
